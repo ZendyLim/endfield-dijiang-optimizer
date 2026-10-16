@@ -5072,6 +5072,268 @@
           "notes": "Used to verify Zhuang Fangyi portrait and character metadata."
         }
       ]
+    },
+    {
+      "id": "si",
+      "name": "Si",
+      "rarity": 6,
+      "className": "Supporter",
+      "images": [
+        {
+          "id": "operator-rossi-portrait",
+          "kind": "portrait",
+          "path": "assets/operators/si.webp",
+          "attribution": "Portrait from perlica.moe CDN (https://cdn.perlica.moe/images/operators/portraits/si.webp), retrieved 2026-04-03."
+        }
+      ],
+      "baseSkills": [
+        {
+          "id": "ware-is-the-geist",
+          "name": "Ware is the Geist",
+          "facilityKind": "reception_room",
+          "ranks": [
+            {
+              "rank": 1,
+              "label": "beta",
+              "modifiers": [
+                {
+                  "metric": "mood_drop_reduction",
+                  "appliesTo": "all",
+                  "value": 14,
+                  "unit": "percent"
+                }
+              ],
+              "sourceRefs": [
+                {
+                  "id": "wiki-rossi",
+                  "label": "Endfield Talos Wiki Rossi page",
+                  "url": "https://endfield.wiki.gg/wiki/Rossi",
+                  "retrievedOn": "2026-04-03",
+                  "confidence": "community",
+                  "notes": "Used for Rossi Base Skill details and Promotion IV material requirements from the wiki page and raw source."
+                },
+                {
+                  "id": "endfieldtools-rossi",
+                  "label": "EndfieldTools Rossi page",
+                  "url": "https://endfieldtools.dev/characters/rossi/",
+                  "retrievedOn": "2026-04-03",
+                  "confidence": "community",
+                  "notes": "Used to verify Rossi Base Skill rank suffixes from the factory skill postfix fields in chr_0028_wulfa.json."
+                },
+                {
+                  "id": "base-skill-audit-rossi",
+                  "label": "Rossi Base Skill audit",
+                  "url": "https://endfieldtools.dev/characters/rossi/",
+                  "retrievedOn": "2026-09-13",
+                  "confidence": "community",
+                  "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+                }
+              ]
+            },
+            {
+              "rank": 2,
+              "label": "gamma",
+              "modifiers": [
+                {
+                  "metric": "mood_drop_reduction",
+                  "appliesTo": "all",
+                  "value": 18,
+                  "unit": "percent"
+                }
+              ],
+              "sourceRefs": [
+                {
+                  "id": "wiki-rossi",
+                  "label": "Endfield Talos Wiki Rossi page",
+                  "url": "https://endfield.wiki.gg/wiki/Rossi",
+                  "retrievedOn": "2026-04-03",
+                  "confidence": "community",
+                  "notes": "Used for Rossi Base Skill details and Promotion IV material requirements from the wiki page and raw source."
+                },
+                {
+                  "id": "endfieldtools-rossi",
+                  "label": "EndfieldTools Rossi page",
+                  "url": "https://endfieldtools.dev/characters/rossi/",
+                  "retrievedOn": "2026-04-03",
+                  "confidence": "community",
+                  "notes": "Used to verify Rossi Base Skill rank suffixes from the factory skill postfix fields in chr_0028_wulfa.json."
+                },
+                {
+                  "id": "base-skill-audit-rossi",
+                  "label": "Rossi Base Skill audit",
+                  "url": "https://endfieldtools.dev/characters/rossi/",
+                  "retrievedOn": "2026-09-13",
+                  "confidence": "community",
+                  "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+                }
+              ]
+            }
+          ],
+          "sourceRefs": [
+            {
+              "id": "wiki-rossi",
+              "label": "Endfield Talos Wiki Rossi page",
+              "url": "https://endfield.wiki.gg/wiki/Rossi",
+              "retrievedOn": "2026-04-03",
+              "confidence": "community",
+              "notes": "Used for Rossi Base Skill details and Promotion IV material requirements from the wiki page and raw source."
+            },
+            {
+              "id": "endfieldtools-rossi",
+              "label": "EndfieldTools Rossi page",
+              "url": "https://endfieldtools.dev/characters/rossi/",
+              "retrievedOn": "2026-04-03",
+              "confidence": "community",
+              "notes": "Used to verify Rossi Base Skill rank suffixes from the factory skill postfix fields in chr_0028_wulfa.json."
+            },
+            {
+              "id": "base-skill-audit-rossi",
+              "label": "Rossi Base Skill audit",
+              "url": "https://endfieldtools.dev/characters/rossi/",
+              "retrievedOn": "2026-09-13",
+              "confidence": "community",
+              "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+            }
+          ],
+          "iconAssetId": "skill-rossi-clan-etiquette-icon"
+        },
+        {
+          "id": "ink-spirit-aide",
+          "name": "Ink Spirit Aide",
+          "facilityKind": "reception_room",
+          "ranks": [
+            {
+              "rank": 1,
+              "label": "beta",
+              "modifiers": [
+                {
+                  "metric": "clue_collection_efficiency",
+                  "appliesTo": "all",
+                  "value": 20,
+                  "unit": "percent"
+                }
+              ],
+              "sourceRefs": [
+                {
+                  "id": "wiki-rossi",
+                  "label": "Endfield Talos Wiki Rossi page",
+                  "url": "https://endfield.wiki.gg/wiki/Rossi",
+                  "retrievedOn": "2026-04-03",
+                  "confidence": "community",
+                  "notes": "Used for Rossi Base Skill details and Promotion IV material requirements from the wiki page and raw source."
+                },
+                {
+                  "id": "endfieldtools-rossi",
+                  "label": "EndfieldTools Rossi page",
+                  "url": "https://endfieldtools.dev/characters/rossi/",
+                  "retrievedOn": "2026-04-03",
+                  "confidence": "community",
+                  "notes": "Used to verify Rossi Base Skill rank suffixes from the factory skill postfix fields in chr_0028_wulfa.json."
+                },
+                {
+                  "id": "base-skill-audit-rossi",
+                  "label": "Rossi Base Skill audit",
+                  "url": "https://endfieldtools.dev/characters/rossi/",
+                  "retrievedOn": "2026-09-13",
+                  "confidence": "community",
+                  "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+                }
+              ]
+            },
+            {
+              "rank": 2,
+              "label": "gamma",
+              "modifiers": [
+                {
+                  "metric": "clue_collection_efficiency",
+                  "appliesTo": "all",
+                  "value": 30,
+                  "unit": "percent"
+                }
+              ],
+              "sourceRefs": [
+                {
+                  "id": "wiki-rossi",
+                  "label": "Endfield Talos Wiki Rossi page",
+                  "url": "https://endfield.wiki.gg/wiki/Rossi",
+                  "retrievedOn": "2026-04-03",
+                  "confidence": "community",
+                  "notes": "Used for Rossi Base Skill details and Promotion IV material requirements from the wiki page and raw source."
+                },
+                {
+                  "id": "endfieldtools-rossi",
+                  "label": "EndfieldTools Rossi page",
+                  "url": "https://endfieldtools.dev/characters/rossi/",
+                  "retrievedOn": "2026-04-03",
+                  "confidence": "community",
+                  "notes": "Used to verify Rossi Base Skill rank suffixes from the factory skill postfix fields in chr_0028_wulfa.json."
+                },
+                {
+                  "id": "base-skill-audit-rossi",
+                  "label": "Rossi Base Skill audit",
+                  "url": "https://endfieldtools.dev/characters/rossi/",
+                  "retrievedOn": "2026-09-13",
+                  "confidence": "community",
+                  "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+                }
+              ]
+            }
+          ],
+          "sourceRefs": [
+            {
+              "id": "wiki-rossi",
+              "label": "Endfield Talos Wiki Rossi page",
+              "url": "https://endfield.wiki.gg/wiki/Rossi",
+              "retrievedOn": "2026-04-03",
+              "confidence": "community",
+              "notes": "Used for Rossi Base Skill details and Promotion IV material requirements from the wiki page and raw source."
+            },
+            {
+              "id": "endfieldtools-rossi",
+              "label": "EndfieldTools Rossi page",
+              "url": "https://endfieldtools.dev/characters/rossi/",
+              "retrievedOn": "2026-04-03",
+              "confidence": "community",
+              "notes": "Used to verify Rossi Base Skill rank suffixes from the factory skill postfix fields in chr_0028_wulfa.json."
+            },
+            {
+              "id": "base-skill-audit-rossi",
+              "label": "Rossi Base Skill audit",
+              "url": "https://endfieldtools.dev/characters/rossi/",
+              "retrievedOn": "2026-09-13",
+              "confidence": "community",
+              "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+            }
+          ],
+          "iconAssetId": "skill-rossi-scent-of-the-hunt-icon"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "id": "official-wolf-pearl-2026-03-29",
+          "label": "Official Old Deep Water Dies, by Rising Tide It is Denied version update notes",
+          "url": "https://endfield.gryphline.com/news/8907",
+          "retrievedOn": "2026-04-03",
+          "confidence": "official",
+          "notes": "Used for Rossi release timing: [Wolf Pearl] Chartered Headhunting opened at 2026/03/29 12:00 server time."
+        },
+        {
+          "id": "wiki-rossi",
+          "label": "Endfield Talos Wiki Rossi page",
+          "url": "https://endfield.wiki.gg/wiki/Rossi",
+          "retrievedOn": "2026-04-03",
+          "confidence": "community",
+          "notes": "Used for Rossi Base Skill details and Promotion IV material requirements from the wiki page and raw source."
+        },
+        {
+          "id": "endfieldtools-rossi",
+          "label": "EndfieldTools Rossi page",
+          "url": "https://endfieldtools.dev/characters/rossi/",
+          "retrievedOn": "2026-04-03",
+          "confidence": "community",
+          "notes": "Used to verify Rossi Base Skill rank suffixes from the factory skill postfix fields in chr_0028_wulfa.json."
+        }
+      ]
     }
   ]
 }
