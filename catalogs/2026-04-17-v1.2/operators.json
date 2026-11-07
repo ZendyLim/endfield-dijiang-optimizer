@@ -5072,6 +5072,156 @@
           "notes": "Used to verify Zhuang Fangyi portrait and character metadata."
         }
       ]
+    },
+    {
+      "id": "argent-flow",
+      "name": "Argent Flow",
+      "rarity": 6,
+      "className": "Guard",
+      "images": [
+        {
+          "id": "operator-argent-flow-portrait",
+          "kind": "portrait",
+          "path": "assets/operators/argent-flow.webp",
+          "attribution": "Portrait from perlica.moe CDN (https://cdn.perlica.moe/images/operators/portraits/argent-flow.webp), retrieved 2026-11-07."
+        }
+      ],
+      "baseSkills": [
+        {
+          "id": "axiom-of-combat",
+          "name": "Axiom of Combat",
+          "facilityKind": "manufacturing_cabin",
+          "ranks": [
+            {
+              "rank": 1,
+              "label": "beta",
+              "modifiers": [
+                {
+                  "metric": "production_efficiency",
+                  "appliesTo": "operator_exp",
+                  "value": 20,
+                  "unit": "percent"
+                }
+              ],
+              "sourceRefs": [
+                {
+                  "id": "manual-argent-flow",
+                  "label": "Argent Flow Base Skills (in-game, user-provided)",
+                  "url": "https://endfield.wiki.gg/wiki/Argent_Flow",
+                  "retrievedOn": "2026-11-07",
+                  "confidence": "manual_override",
+                  "notes": "Base Skills entered manually from in-game values because SKPORT had not published complete Base Skill tables. Icons reuse the matching Ember Base Skills."
+                }
+              ]
+            },
+            {
+              "rank": 2,
+              "label": "gamma",
+              "modifiers": [
+                {
+                  "metric": "production_efficiency",
+                  "appliesTo": "operator_exp",
+                  "value": 30,
+                  "unit": "percent"
+                }
+              ],
+              "sourceRefs": [
+                {
+                  "id": "manual-argent-flow",
+                  "label": "Argent Flow Base Skills (in-game, user-provided)",
+                  "url": "https://endfield.wiki.gg/wiki/Argent_Flow",
+                  "retrievedOn": "2026-11-07",
+                  "confidence": "manual_override",
+                  "notes": "Base Skills entered manually from in-game values because SKPORT had not published complete Base Skill tables. Icons reuse the matching Ember Base Skills."
+                }
+              ]
+            }
+          ],
+          "sourceRefs": [
+            {
+              "id": "manual-argent-flow",
+              "label": "Argent Flow Base Skills (in-game, user-provided)",
+              "url": "https://endfield.wiki.gg/wiki/Argent_Flow",
+              "retrievedOn": "2026-11-07",
+              "confidence": "manual_override",
+              "notes": "Base Skills entered manually from in-game values because SKPORT had not published complete Base Skill tables. Icons reuse the matching Ember Base Skills."
+            }
+          ],
+          "iconAssetId": "skill-ember-special-northern-training-icon"
+        },
+        {
+          "id": "tools-of-momentum",
+          "name": "Tools of Momentum",
+          "facilityKind": "manufacturing_cabin",
+          "ranks": [
+            {
+              "rank": 1,
+              "label": "beta",
+              "modifiers": [
+                {
+                  "metric": "mood_drop_reduction",
+                  "appliesTo": "all",
+                  "value": 14,
+                  "unit": "percent"
+                }
+              ],
+              "sourceRefs": [
+                {
+                  "id": "manual-argent-flow",
+                  "label": "Argent Flow Base Skills (in-game, user-provided)",
+                  "url": "https://endfield.wiki.gg/wiki/Argent_Flow",
+                  "retrievedOn": "2026-11-07",
+                  "confidence": "manual_override",
+                  "notes": "Base Skills entered manually from in-game values because SKPORT had not published complete Base Skill tables. Icons reuse the matching Ember Base Skills."
+                }
+              ]
+            },
+            {
+              "rank": 2,
+              "label": "gamma",
+              "modifiers": [
+                {
+                  "metric": "mood_drop_reduction",
+                  "appliesTo": "all",
+                  "value": 18,
+                  "unit": "percent"
+                }
+              ],
+              "sourceRefs": [
+                {
+                  "id": "manual-argent-flow",
+                  "label": "Argent Flow Base Skills (in-game, user-provided)",
+                  "url": "https://endfield.wiki.gg/wiki/Argent_Flow",
+                  "retrievedOn": "2026-11-07",
+                  "confidence": "manual_override",
+                  "notes": "Base Skills entered manually from in-game values because SKPORT had not published complete Base Skill tables. Icons reuse the matching Ember Base Skills."
+                }
+              ]
+            }
+          ],
+          "sourceRefs": [
+            {
+              "id": "manual-argent-flow",
+              "label": "Argent Flow Base Skills (in-game, user-provided)",
+              "url": "https://endfield.wiki.gg/wiki/Argent_Flow",
+              "retrievedOn": "2026-11-07",
+              "confidence": "manual_override",
+              "notes": "Base Skills entered manually from in-game values because SKPORT had not published complete Base Skill tables. Icons reuse the matching Ember Base Skills."
+            }
+          ],
+          "iconAssetId": "skill-pogranichnik-morale-boost-icon"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "id": "manual-argent-flow",
+          "label": "Argent Flow Base Skills (in-game, user-provided)",
+          "url": "https://endfield.wiki.gg/wiki/Argent_Flow",
+          "retrievedOn": "2026-11-07",
+          "confidence": "manual_override",
+          "notes": "Base Skills entered manually from in-game values because SKPORT had not published complete Base Skill tables. Icons reuse the matching Ember Base Skills."
+        }
+      ]
     }
   ]
 }

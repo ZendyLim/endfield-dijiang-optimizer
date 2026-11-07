@@ -20,7 +20,7 @@
     "optimize:example": "tsx apps/cli/src/index.ts optimize --scenario scenarios/examples/current-base.simple.json --json",
     "release:check": "npm run validate:data && npm run check:catalog:release && npm run test && npm run build",
     "recommend:example": "tsx apps/cli/src/index.ts recommend-upgrades --scenario scenarios/examples/current-base.simple.json --json",
-    "sync:promotion-data": "tsx scripts/sync-promotion-overrides.ts",
+    "sync:promotion-data":"tsx scripts/sync-promotion-overrides.ts",
     "sync:material-icons": "tsx scripts/sync-material-icons.ts",
     "sync:live-roster": "tsx scripts/sync-live-roster.ts",
     "sync:skill-icons": "tsx scripts/sync-skill-icons.ts",

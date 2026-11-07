@@ -2,6 +2,206 @@
   "catalogVersion": "2026-04-17/v1.2",
   "sources": [
     {
+      "id": "base-skill-audit-akekuri",
+      "label": "Akekuri Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/akekuri/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-alesh",
+      "label": "Alesh Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/alesh/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-antal",
+      "label": "Antal Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/antal/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-arclight",
+      "label": "Arclight Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/arclight/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-ardelia",
+      "label": "Ardelia Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/ardelia/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-avywenna",
+      "label": "Avywenna Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/avywenna/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-catcher",
+      "label": "Catcher Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/catcher/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-chen-qianyu",
+      "label": "Chen Qianyu Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/chen-qianyu/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-da-pan",
+      "label": "Da Pan Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/da-pan/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-ember",
+      "label": "Ember Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/ember/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-estella",
+      "label": "Estella Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/estella/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-fluorite",
+      "label": "Fluorite Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/fluorite/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-gilberta",
+      "label": "Gilberta Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/gilberta/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-laevatain",
+      "label": "Laevatain Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/laevatain/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-last-rite",
+      "label": "Last Rite Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/last-rite/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-lifeng",
+      "label": "Lifeng Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/lifeng/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-perlica",
+      "label": "Perlica Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/perlica/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-pogranichnik",
+      "label": "Pogranichnik Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/pogranichnik/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-rossi",
+      "label": "Rossi Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/rossi/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-snowshine",
+      "label": "Snowshine Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/snowshine/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-tangtang",
+      "label": "Tangtang Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/tangtang/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-wulfgard",
+      "label": "Wulfgard Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/wulfgard/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-xaihi",
+      "label": "Xaihi Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/xaihi/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-yvonne",
+      "label": "Yvonne Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/yvonne/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
+      "id": "base-skill-audit-zhuang-fangyi",
+      "label": "Zhuang Fangyi Base Skill audit",
+      "url": "https://endfieldtools.dev/characters/zhuang-fangyi/",
+      "retrievedOn": "2026-09-13",
+      "confidence": "community",
+      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
+    },
+    {
       "id": "endfieldtools-rossi",
       "label": "EndfieldTools Rossi page",
       "url": "https://endfieldtools.dev/characters/rossi/",
@@ -228,6 +428,14 @@
       "confidence": "guide_site"
     },
     {
+      "id": "manual-argent-flow",
+      "label": "Argent Flow Base Skills (in-game, user-provided)",
+      "url": "https://endfield.wiki.gg/wiki/Argent_Flow",
+      "retrievedOn": "2026-11-07",
+      "confidence": "manual_override",
+      "notes": "Base Skills entered manually from in-game values because SKPORT had not published complete Base Skill tables. Icons reuse the matching Ember Base Skills."
+    },
+    {
       "id": "official-at-the-wake-of-spring-2026-04-17",
       "label": "Official At the Wake of Spring version update notes",
       "url": "https://endfield.gryphline.com/en-us/news/0751",
@@ -258,6 +466,14 @@
       "notes": "Used for Rossi release timing: [Wolf Pearl] Chartered Headhunting opened at 2026/03/29 12:00 server time."
     },
     {
+      "id": "skport-calculator-rules-2026-09-22",
+      "label": "Official SKPort progression calculator rules",
+      "url": "https://game.skport.com/tools/endfield/cost-calculator",
+      "retrievedOn": "2026-09-22",
+      "confidence": "official",
+      "notes": "User-provided HAR response from /web/v1/game/endfield/calculate/rules. Rows give the cost from level L to L+1; the terminal level-90 sentinel is excluded. All five cumulative milestones match the existing catalog."
+    },
+    {
       "id": "user-control-nexus-upgrades-2026-03-21",
       "label": "User Control Nexus upgrade screenshots",
       "url": "local-user-supplied",
@@ -285,7 +501,7 @@
       "id": "wiki-akekuri",
       "label": "Endfield Talos Wiki Akekuri page",
       "url": "https://endfield.wiki.gg/wiki/Akekuri",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -293,7 +509,7 @@
       "id": "wiki-alesh",
       "label": "Endfield Talos Wiki Alesh page",
       "url": "https://endfield.wiki.gg/wiki/Alesh",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -301,7 +517,7 @@
       "id": "wiki-antal",
       "label": "Endfield Talos Wiki Antal page",
       "url": "https://endfield.wiki.gg/wiki/Antal",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -309,7 +525,7 @@
       "id": "wiki-arclight",
       "label": "Endfield Talos Wiki Arclight page",
       "url": "https://endfield.wiki.gg/wiki/Arclight",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -317,7 +533,15 @@
       "id": "wiki-ardelia",
       "label": "Endfield Talos Wiki Ardelia page",
       "url": "https://endfield.wiki.gg/wiki/Ardelia",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
+      "confidence": "community",
+      "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
+    },
+    {
+      "id": "wiki-argent-flow",
+      "label": "Endfield Talos Wiki Argent Flow page",
+      "url": "https://endfield.wiki.gg/wiki/Argent_Flow",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -325,7 +549,7 @@
       "id": "wiki-avywenna",
       "label": "Endfield Talos Wiki Avywenna page",
       "url": "https://endfield.wiki.gg/wiki/Avywenna",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -333,7 +557,7 @@
       "id": "wiki-catcher",
       "label": "Endfield Talos Wiki Catcher page",
       "url": "https://endfield.wiki.gg/wiki/Catcher",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -341,7 +565,7 @@
       "id": "wiki-chen-qianyu",
       "label": "Endfield Talos Wiki Chen Qianyu page",
       "url": "https://endfield.wiki.gg/wiki/Chen_Qianyu",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -349,7 +573,7 @@
       "id": "wiki-da-pan",
       "label": "Endfield Talos Wiki Da Pan page",
       "url": "https://endfield.wiki.gg/wiki/Da_Pan",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -357,7 +581,7 @@
       "id": "wiki-ember",
       "label": "Endfield Talos Wiki Ember page",
       "url": "https://endfield.wiki.gg/wiki/Ember",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -365,7 +589,7 @@
       "id": "wiki-estella",
       "label": "Endfield Talos Wiki Estella page",
       "url": "https://endfield.wiki.gg/wiki/Estella",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -373,7 +597,7 @@
       "id": "wiki-fluorite",
       "label": "Endfield Talos Wiki Fluorite page",
       "url": "https://endfield.wiki.gg/wiki/Fluorite",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -381,7 +605,7 @@
       "id": "wiki-gilberta",
       "label": "Endfield Talos Wiki Gilberta page",
       "url": "https://endfield.wiki.gg/wiki/Gilberta",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -389,7 +613,7 @@
       "id": "wiki-laevatain",
       "label": "Endfield Talos Wiki Laevatain page",
       "url": "https://endfield.wiki.gg/wiki/Laevatain",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -397,7 +621,7 @@
       "id": "wiki-last-rite",
       "label": "Endfield Talos Wiki Last Rite page",
       "url": "https://endfield.wiki.gg/wiki/Last_Rite",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -405,7 +629,7 @@
       "id": "wiki-lifeng",
       "label": "Endfield Talos Wiki Lifeng page",
       "url": "https://endfield.wiki.gg/wiki/Lifeng",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -428,7 +652,7 @@
       "id": "wiki-perlica",
       "label": "Endfield Talos Wiki Perlica page",
       "url": "https://endfield.wiki.gg/wiki/Perlica",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -436,7 +660,7 @@
       "id": "wiki-pogranichnik",
       "label": "Endfield Talos Wiki Pogranichnik page",
       "url": "https://endfield.wiki.gg/wiki/Pogranichnik",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -444,7 +668,7 @@
       "id": "wiki-rossi",
       "label": "Endfield Talos Wiki Rossi page",
       "url": "https://endfield.wiki.gg/wiki/Rossi",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -452,7 +676,7 @@
       "id": "wiki-snowshine",
       "label": "Endfield Talos Wiki Snowshine page",
       "url": "https://endfield.wiki.gg/wiki/Snowshine",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -460,7 +684,7 @@
       "id": "wiki-tangtang",
       "label": "Endfield Talos Wiki Tangtang page",
       "url": "https://endfield.wiki.gg/wiki/Tangtang",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -468,7 +692,7 @@
       "id": "wiki-wulfgard",
       "label": "Endfield Talos Wiki Wulfgard page",
       "url": "https://endfield.wiki.gg/wiki/Wulfgard",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -476,7 +700,7 @@
       "id": "wiki-xaihi",
       "label": "Endfield Talos Wiki Xaihi page",
       "url": "https://endfield.wiki.gg/wiki/Xaihi",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -484,7 +708,7 @@
       "id": "wiki-yvonne",
       "label": "Endfield Talos Wiki Yvonne page",
       "url": "https://endfield.wiki.gg/wiki/Yvonne",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
     },
@@ -492,217 +716,9 @@
       "id": "wiki-zhuang-fangyi",
       "label": "Endfield Talos Wiki Zhuang Fangyi page",
       "url": "https://endfield.wiki.gg/wiki/Zhuang_Fangyi",
-      "retrievedOn": "2026-04-18",
+      "retrievedOn": "2026-11-07",
       "confidence": "community",
       "notes": "Used for operator Promotion IV material requirements from raw wiki page source."
-    },
-    {
-      "id": "base-skill-audit-chen-qianyu",
-      "label": "Chen Qianyu Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/chen-qianyu/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-xaihi",
-      "label": "Xaihi Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/xaihi/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-snowshine",
-      "label": "Snowshine Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/snowshine/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-da-pan",
-      "label": "Da Pan Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/da-pan/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-ardelia",
-      "label": "Ardelia Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/ardelia/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-akekuri",
-      "label": "Akekuri Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/akekuri/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-fluorite",
-      "label": "Fluorite Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/fluorite/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-estella",
-      "label": "Estella Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/estella/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-perlica",
-      "label": "Perlica Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/perlica/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-yvonne",
-      "label": "Yvonne Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/yvonne/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-antal",
-      "label": "Antal Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/antal/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-wulfgard",
-      "label": "Wulfgard Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/wulfgard/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-laevatain",
-      "label": "Laevatain Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/laevatain/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-last-rite",
-      "label": "Last Rite Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/last-rite/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-pogranichnik",
-      "label": "Pogranichnik Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/pogranichnik/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-gilberta",
-      "label": "Gilberta Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/gilberta/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-lifeng",
-      "label": "Lifeng Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/lifeng/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-alesh",
-      "label": "Alesh Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/alesh/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-arclight",
-      "label": "Arclight Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/arclight/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-avywenna",
-      "label": "Avywenna Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/avywenna/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-catcher",
-      "label": "Catcher Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/catcher/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-ember",
-      "label": "Ember Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/ember/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-tangtang",
-      "label": "Tangtang Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/tangtang/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-rossi",
-      "label": "Rossi Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/rossi/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "base-skill-audit-zhuang-fangyi",
-      "label": "Zhuang Fangyi Base Skill audit",
-      "url": "https://endfieldtools.dev/characters/zhuang-fangyi/",
-      "retrievedOn": "2026-09-13",
-      "confidence": "community",
-      "notes": "All two-rank Base Skills checked against extracted game data and SKPORT; conflicts resolved in docs/base-skill-audit.md. Clue strength is qualitative, not a percentage."
-    },
-    {
-      "id": "skport-calculator-rules-2026-09-22",
-      "label": "Official SKPort progression calculator rules",
-      "url": "https://game.skport.com/tools/endfield/cost-calculator",
-      "retrievedOn": "2026-09-22",
-      "confidence": "official",
-      "notes": "User-provided HAR response from /web/v1/game/endfield/calculate/rules. Rows give the cost from level L to L+1; the terminal level-90 sentinel is excluded. All five cumulative milestones match the existing catalog."
     }
   ]
 }

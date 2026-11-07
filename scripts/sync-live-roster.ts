@@ -923,8 +923,11 @@ async function main(): Promise<void> {
   const previous = disabled ? undefined : await readPreviousUpdate(outputPath, publishedUrl);
   const gameVersionPromise = disabled ? Promise.resolve(undefined) : fetchOfficialGameVersion();
   const bundled = await loadDefaultCatalog();
+  // Hand-entered operators may precede complete SKPORT data; the bundled catalog keeps serving them.
   const knownOperatorIds = new Set([
-    ...bundled.operators.map((operator) => operator.id),
+    ...bundled.operators
+      .filter((operator) => !operator.sourceRefs.some((source) => source.confidence === "manual_override"))
+      .map((operator) => operator.id),
     ...(previous?.operators.map((operator) => operator.id) ?? []),
   ]);
   let update: LiveRosterUpdateDocument;
